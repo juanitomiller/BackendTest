@@ -1,0 +1,1498 @@
+
+    2025-02-17T17:05:43.183Z - 
+    Ruta: POST /register?username=simon&password=contrasena123&email=correo@prueba.cl&direccion=Direccion%20donde%20vivo%20123&telefono=123123123&rol=user - 
+    Consultas: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde vivo 123","telefono":"123123123","rol":"user"} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T17:08:24.228Z - 
+    Ruta: POST /register?username=simon&password=contrasena123&email=correo@prueba.cl&direccion=Direccion%20donde%20vivo%20123&telefono=123123123&rol=user - 
+    Consultas: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde vivo 123","telefono":"123123123","rol":"user"} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T17:10:40.661Z - 
+    Ruta: POST /register?username=simon&password=contrasena123&email=correo@prueba.cl&direccion=Direccion%20donde%20vivo%20123&telefono=123123123&rol=user - 
+    Consultas: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde vivo 123","telefono":"123123123","rol":"user"} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T17:10:58.228Z - 
+    Ruta: POST /register?username=simon&password=contrasena123&email=correo@prueba.cl&direccion=Direccion%20donde%20vivo%20123&telefono=123123123&rol=user - 
+    Consultas: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde vivo 123","telefono":"123123123","rol":"user"} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T17:16:41.004Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde vivo 123","telefono":"123123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T17:23:50.384Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde vivo 123","telefono":"123123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T17:28:27.036Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde vivo 123","telefono":"123123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T17:29:06.881Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde vivo 123","telefono":"123123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T17:35:00.998Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde vivo 123","telefono":"123123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T17:35:55.344Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde3","telefono":"123123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T19:46:32.180Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde3","telefono":"123123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T19:52:39.179Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"simon","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde3","telefono":"123123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T19:54:56.926Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"carlos","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde3","telefono":"123123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T19:57:14.259Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"password":"contrasena123","email":"correo@prueba.cl"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T19:58:40.457Z - 
+    Ruta: GET /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"password":"contrasena123","email":"correo@prueba.cl"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T20:00:07.536Z - 
+    Ruta: GET /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"password":"contrasena123","email":"correo@prueba.cl"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T20:00:55.831Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"password":"contrasena123","email":"correo@prueba.cl"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T20:01:30.846Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:46:55.868Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:46:55.893Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Test Street 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:46:56.003Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:46:56.017Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:46:56.089Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:46:56.096Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:52:31.005Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:52:31.032Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Test Street 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:52:31.140Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:52:31.155Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:52:31.226Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T21:52:31.232Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T22:21:55.161Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T22:21:55.190Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T22:21:55.319Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T22:21:55.335Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T22:21:55.407Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T22:21:55.414Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T23:03:17.557Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T23:03:17.585Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T23:03:17.695Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T23:03:17.710Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T23:03:17.780Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-17T23:03:17.786Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T05:55:53.454Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Smartphone X","image":"https://example.com/smartphone.jpg","price":899.99,"original_price":999.99,"button_text":"Añadir","sale":true,"rating":5,"description":"Un smartphone de última generación con gran cámara.","stock":50} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T05:58:52.745Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Smartphone X","image":"https://example.com/smartphone.jpg","price":899.99,"original_price":999.99,"button_text":"Añadir","sale":true,"rating":5,"description":"Un smartphone de última generación con gran cámara.","stock":50} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:02:49.251Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Smartphone X","image":"https://example.com/smartphone.jpg","price":899.99,"original_price":999.99,"button_text":"Añadir","sale":true,"rating":5,"description":"Un smartphone de última generación con gran cámara.","stock":50} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:03:59.432Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Modelo Especial","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2600&field=image_1024","price":10990,"original_price":15990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana con sabor auténtico.","stock":18} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:07:21.196Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Modelo Especial","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2600&field=image_1024","price":10990,"original_price":15990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana con sabor auténtico.","stock":18} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:09:28.283Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: [{"id":1,"name":"Smartphone X","image":"https://example.com/smartphone.jpg","price":899.99,"original_price":999.99,"button_text":"Añadir","sale":true,"rating":5,"description":"Un smartphone de última generación con gran cámara.","stock":50}] - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:10:18.865Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Modelo Especial","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2600&field=image_1024","price":10990,"original_price":15990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana con sabor auténtico.","stock":18} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:10:38.816Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: [{"name":"Cerveza Modelo Especial","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2600&field=image_1024","price":10990,"original_price":15990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana con sabor auténtico.","stock":18}] - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:11:14.628Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: [{"name":"Cerveza Modelo Especial","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2600&field=image_1024","price":10990,"original_price":15990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana con sabor auténtico.","stock":18}] - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:14:13.239Z - 
+    Ruta: GET /productos/sale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:14:55.192Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:15:25.340Z - 
+    Ruta: GET /productos/1 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:15:52.751Z - 
+    Ruta: GET /productos/1 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:15:56.860Z - 
+    Ruta: GET /productos/8 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:16:30.684Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:21:22.427Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"carlos","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde3","telefono":"123123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:21:25.607Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"password":"contrasena123","email":"correo@prueba.cl"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:24:45.283Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"carlos","password":"contrasena123","email":"correo@prueba.cl","direccion":"Direccion donde3","telefono":"123123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:25:06.988Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"password":"contrasena123","email":"correo@prueba.cl"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:25:19.490Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:25:28.554Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:26:15.238Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":4.5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:26:24.517Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:26:33.196Z - 
+    Ruta: GET /productos/15 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:26:36.868Z - 
+    Ruta: GET /productos/14 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:26:47.765Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:28:01.414Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:28:01.437Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:28:01.548Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:28:01.559Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:28:01.624Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:28:01.629Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:30:27.459Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:30:27.481Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:30:27.582Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:30:27.593Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:30:27.658Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:30:27.662Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:43.216Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:43.238Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:43.339Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:43.349Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:43.416Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:43.420Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:53.457Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:53.479Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:53.580Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:53.590Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:53.655Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:53.660Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:53.663Z - 
+    Ruta: POST /products - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:53.667Z - 
+    Ruta: GET /products - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:53.670Z - 
+    Ruta: GET /products/undefined - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:53.674Z - 
+    Ruta: GET /products/sale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:33:53.677Z - 
+    Ruta: GET /products/999999 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:35:15.627Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:35:15.650Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:35:15.751Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:35:15.762Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:35:15.828Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:35:15.833Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:36:25.261Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:36:25.283Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:36:25.382Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:36:25.393Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:36:25.457Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:36:25.462Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:36:25.466Z - 
+    Ruta: POST /products - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:36:25.470Z - 
+    Ruta: GET /products - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:36:25.473Z - 
+    Ruta: GET /products/undefined - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:36:25.477Z - 
+    Ruta: GET /products/sale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:36:25.480Z - 
+    Ruta: GET /products/999999 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:37:44.454Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:37:44.483Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:37:44.583Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:37:44.594Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:37:44.660Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:37:44.664Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:37:44.668Z - 
+    Ruta: POST /products - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:37:44.672Z - 
+    Ruta: GET /products - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:37:44.675Z - 
+    Ruta: GET /products/undefined - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:37:44.679Z - 
+    Ruta: GET /productssale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:40:46.756Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:40:46.778Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:40:46.878Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:40:46.889Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:40:46.954Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:40:46.959Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:40:46.963Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:40:46.967Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:40:46.972Z - 
+    Ruta: GET /productos/15 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:40:46.975Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:52:57.566Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:52:57.589Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:52:57.690Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:52:57.701Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:52:57.766Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:52:57.771Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:52:57.774Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:52:57.779Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:52:57.783Z - 
+    Ruta: GET /productos/16 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:52:57.787Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:55:15.355Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:55:15.377Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:55:15.478Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:55:15.489Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:55:15.554Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:55:15.558Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:55:15.564Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:55:15.568Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:55:15.572Z - 
+    Ruta: GET /productos/17 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:55:15.576Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:57:28.286Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:57:28.313Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:57:28.414Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:57:28.425Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:57:28.491Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:57:28.495Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:57:28.501Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:57:28.505Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:57:28.509Z - 
+    Ruta: GET /productos/18 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:57:28.513Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:58:41.096Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:58:41.117Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:58:41.218Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:58:41.230Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:58:41.294Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:58:41.299Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:58:41.304Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:58:41.308Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:58:41.312Z - 
+    Ruta: GET /productos/13 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:58:41.316Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:59:18.744Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:59:18.778Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"password123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:59:18.887Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:59:18.901Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:59:18.967Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:59:18.973Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:59:18.981Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:59:18.987Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:59:18.994Z - 
+    Ruta: GET /productos/14 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T06:59:19.000Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:23.134Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:23.167Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"contrasena123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:23.270Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:23.284Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"contrasena123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:23.351Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:23.357Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:23.363Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:23.370Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:23.376Z - 
+    Ruta: GET /productos/15 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:23.385Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:53.712Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:53.743Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"contrasena123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:53.846Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:53.860Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"contrasena123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:53.927Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:53.933Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:53.941Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:53.950Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:53.956Z - 
+    Ruta: GET /productos/13 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:01:53.961Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:21:21.616Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"Nombre Prueba","password":"password123","email":"","direccion":"test","telefono":"123123","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:21:21.648Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"username":"testuser","password":"contrasena123","email":"correo@prueba.cl","direccion":"Calle de Prueba 123","telefono":"123456789","rol":"user"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:21:21.752Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@inexistente.cl","password":"password123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:21:21.768Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"correo@prueba.cl","password":"contrasena123"} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:21:21.836Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:21:21.842Z - 
+    Ruta: GET /usuario - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:21:21.849Z - 
+    Ruta: POST /create - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"name":"Cerveza Corona Extra","image":"https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2601&field=image_1024","price":9990,"original_price":14990,"button_text":"Añadir","sale":true,"rating":5,"description":"Cerveza mexicana refrescante y ligera.","stock":25} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:21:21.855Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:21:21.862Z - 
+    Ruta: GET /productos/14 - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2025-02-19T07:21:21.867Z - 
+    Ruta: GET /productossale - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::ffff:127.0.0.1
