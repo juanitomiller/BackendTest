@@ -1,20 +1,27 @@
-require('dotenv').config()
+require('dotenv').config();
 const { Pool } = require("pg");
-const {
-    DB_HOST,
-    DB_USER,
-    DB_PASS,
-    DB_DATABASE
-} = process.env
-
 
 const pool = new Pool({
-    host: DB_HOST,
-    user: DB_USER,
-    password: DB_PASS,
-    database: DB_DATABASE,
+    host: process.env.DB_HOST,
+    user: process.env.DB_USER,
+    password: process.env.DB_PASS,
+    database: process.env.DB_DATABASE,
     port: 5432,
     allowExitOnIdle: true
+});
+
+// Verificar conexión
+pool.connect((err, client, release) => {
+    if (err) {
+        return console.error('Error al conectar con la base de datos:', err.stack);
+    }
+    client.query('SELECT NOW()', (err, result) => {
+        release();
+        if (err) {
+            return console.error('Error ejecutando consulta:', err.stack);
+        }
+        console.log('Conexión exitosa a la base de datos');
+    });
 });
 
 module.exports = { pool };

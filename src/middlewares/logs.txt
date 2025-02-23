@@ -1496,3 +1496,269 @@
     Parámetros: {} - 
     Cuerpo: {} - 
     IP: ::ffff:127.0.0.1
+
+    2025-02-23T03:11:37.672Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:11:37.729Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:13:08.532Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:13:08.585Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:18:08.896Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:18:08.938Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:18:26.813Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:18:26.854Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:18:29.924Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:18:29.931Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:19:32.408Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:19:32.462Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:20:32.228Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:20:32.274Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:20:34.488Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:20:34.492Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:20:38.599Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:20:38.609Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:21:29.944Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:21:29.960Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:26:19.256Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:26:19.306Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:32:34.344Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:32:34.393Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:32:49.597Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:32:49.639Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:33:42.279Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:33:42.329Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:33:47.803Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:33:47.807Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:33:57.621Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:33:57.625Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:53:07.778Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:53:07.816Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:53:52.760Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:53:52.903Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:53:52.906Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T03:53:52.909Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
