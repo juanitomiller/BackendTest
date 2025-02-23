@@ -2693,3 +2693,87 @@
     Parámetros: {} - 
     Cuerpo: {"email":"g@g.com"} - 
     IP: ::1
+
+    2025-02-23T21:41:23.020Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T21:41:23.665Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T21:41:28.786Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T21:42:20.378Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T21:42:23.004Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T21:42:44.509Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T21:44:03.402Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T21:44:04.058Z - 
+    Ruta: GET /favicon.ico - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T21:44:50.840Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T21:45:02.729Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T21:49:11.171Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T22:02:15.231Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
