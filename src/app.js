@@ -4,7 +4,6 @@ const routes = require('./routes/routes');
 const cors = require('cors');
 const { errorMiddleware } = require('./middlewares/errorMiddleware');
 const { loggerMiddleware } = require('./middlewares/loggerMiddleware');
-
 const app = express();
 
 // Middlewares

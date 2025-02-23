@@ -29,19 +29,18 @@ CREATE TABLE productos (
 );
 
 INSERT INTO productos (name, image, price, original_price, button_text, sale, rating, description, stock) VALUES
-('Coors Botellon 330cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2509&field=image_1024', 17990, 17990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 20),
-('Austral Calafate Patagonia', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=13362&field=image_1024', 17990, 17990, 'Añadir', FALSE, 5, NULL, 15),
-('Heineken 350cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2511&field=image_1024', 17990, 17990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 25),
-('Cerveza original SOL', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2525&field=image_1024', 17990, 17990, 'Añadir', FALSE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 30),
-('Royal Guard American Pale Ale', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=13794&field=image_1024', 17990, 17990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 18),
-('Heineken Silver Lager', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=11610&field=image_1024', 17990, 17990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 22),
-('Coors Original', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=4464&field=image_1024', 17990, 17990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 27),
-('Patagonia 470cc Variedades', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=16472&field=image_1024', 17990, 19990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 12),
-('6x Vaso Schopero La Barra 570cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=11803&field=image_1024', 17990, 19990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 35),
-('6x Copa Cocktail La Barra 410cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=11806&field=image_1024', 17990, 19990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 40),
-('6x Copa Ramazzotti 490cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2586&field=image_1024', 17990, 19990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 28),
-('6x Copa Ramazzotti Violetto 550cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=12104&field=image_1024', 17990, 19990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 32);
-
+('Coors Botellon 330cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2509&field=image_1024', 12990, 15990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 20),
+('Austral Calafate Patagonia', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=13362&field=image_1024', 9990, 11990, 'Añadir', FALSE, 5, NULL, 15),
+('Heineken 350cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2511&field=image_1024', 14990, 16990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 25),
+('Cerveza original SOL', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2525&field=image_1024', 11990, 13990, 'Añadir', FALSE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 30),
+('Royal Guard American Pale Ale', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=13794&field=image_1024', 19990, 22990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 18),
+('Heineken Silver Lager', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=11610&field=image_1024', 16990, 19990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 22),
+('Coors Original', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=4464&field=image_1024', 13990, 15990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 27),
+('Patagonia 470cc Variedades', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=16472&field=image_1024', 21990, 24990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 12),
+('6x Vaso Schopero La Barra 570cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=11803&field=image_1024', 18990, 20990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 35),
+('6x Copa Cocktail La Barra 410cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=11806&field=image_1024', 22990, 25000, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 40),
+('6x Copa Ramazzotti 490cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=2586&field=image_1024', 15990, 17990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 28),
+('6x Copa Ramazzotti Violetto 550cc', 'https://labarraodoo.cloudccu.cl/web/image?model=product.product&id=12104&field=image_1024', 20990, 23990, 'Añadir', TRUE, 5, 'Diseñado pensando en la comodidad y funcionalidad, este producto combina elegancia y practicidad.', 32);
 
 DROP Table productos;
 
@@ -67,4 +66,11 @@ CREATE TABLE detalle_pedidos (
 CREATE TABLE newsletter (
     id SERIAL PRIMARY KEY,
     email VARCHAR(50) NOT NULL
+);
+
+
+CREATE TABLE newsletters (
+    id SERIAL PRIMARY KEY,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );

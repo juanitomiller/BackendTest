@@ -1762,3 +1762,934 @@
     Parámetros: {} - 
     Cuerpo: {} - 
     IP: ::1
+
+    2025-02-23T18:08:21.384Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:08:21.453Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:08:21.762Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:08:21.765Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:08:43.650Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:08:43.702Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:11:09.349Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:11:09.398Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:11:10.974Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:11:11.017Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:12:07.855Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:12:07.873Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:12:43.706Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:12:43.755Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:12:52.653Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:12:52.657Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:12:55.832Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:12:55.838Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:15:15.012Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:15:15.050Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:16:49.381Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:16:49.432Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:17:02.012Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:17:02.052Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:27:20.621Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:27:20.665Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:34:17.452Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:34:17.486Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:44:22.834Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:44:22.882Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:44:22.887Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:44:22.892Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:44:26.329Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:44:26.334Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:44:27.674Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:44:27.679Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:44:54.470Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:44:54.512Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:04.444Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:04.485Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:07.073Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:07.078Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:08.357Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:08.362Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:09.047Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:09.052Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:13.326Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:13.331Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:13.538Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:13.544Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:13.849Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:46:13.854Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:16.451Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:16.488Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:22.027Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:22.032Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:23.551Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:23.556Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:24.254Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:24.259Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:24.908Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:24.913Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:28.028Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:28.033Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:35.241Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:35.245Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:36.096Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:36.100Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:36.924Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:36.927Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:37.623Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:37.628Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:47.848Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:47.887Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:48.361Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:47:48.363Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:49:38.448Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:49:38.480Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:49:38.483Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:49:38.487Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:49:46.866Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:49:46.870Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:49:48.525Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:49:48.529Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:49:49.918Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:49:49.922Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:04.203Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:04.438Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:06.339Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:07.577Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:08.048Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:08.482Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:09.007Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:09.484Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:09.800Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:10.040Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:10.372Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:10.570Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:10.904Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:51:13.148Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:54:33.065Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:58:38.089Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:58:39.962Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T18:58:44.424Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:00:30.890Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:08:17.211Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:08:20.546Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:12:20.393Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:18:19.689Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:18:22.351Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:22:27.946Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:22:34.164Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:24:06.360Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:28:42.351Z - 
+    Ruta: OPTIONS /newsletter - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:28:42.369Z - 
+    Ruta: POST /newsletter - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"hola@hola.cl"} - 
+    IP: ::1
+
+    2025-02-23T19:28:57.764Z - 
+    Ruta: OPTIONS /newsletter - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:28:57.767Z - 
+    Ruta: POST /newsletter - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"juanito.correa@gmail.com"} - 
+    IP: ::1
+
+    2025-02-23T19:28:59.149Z - 
+    Ruta: POST /newsletter - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"juanito.correa@gmail.com"} - 
+    IP: ::1
+
+    2025-02-23T19:57:33.935Z - 
+    Ruta: OPTIONS /newsletter - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:57:33.937Z - 
+    Ruta: POST /newsletter - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"juanito.correa@gmail.com"} - 
+    IP: ::1
+
+    2025-02-23T19:58:47.698Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:58:55.965Z - 
+    Ruta: OPTIONS /newsletter - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:58:55.980Z - 
+    Ruta: POST /newsletter - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"juan@gmail.com"} - 
+    IP: ::1
+
+    2025-02-23T19:59:51.245Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:59:56.676Z - 
+    Ruta: OPTIONS /newsletters - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T19:59:56.679Z - 
+    Ruta: POST /newsletters - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"juan@gmail.com"} - 
+    IP: ::1
+
+    2025-02-23T20:00:05.180Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T20:00:10.442Z - 
+    Ruta: OPTIONS /newsletters - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T20:00:10.445Z - 
+    Ruta: POST /newsletters - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"la@la.com"} - 
+    IP: ::1
+
+    2025-02-23T20:08:57.486Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T20:09:44.677Z - 
+    Ruta: GET /productos - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T20:10:12.921Z - 
+    Ruta: OPTIONS /newsletter - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2025-02-23T20:10:12.935Z - 
+    Ruta: POST /newsletter - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"g@g.com"} - 
+    IP: ::1
