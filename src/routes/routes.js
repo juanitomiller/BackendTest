@@ -16,7 +16,7 @@ router.post('/create', createProduct); // crear producto
 
 // Rutas de usuarios
 router.post('/login', verificarCredencialesMiddleware, handleLogin); // login
-router.post('/register', handleRegister); // registrar usuarios
+router.post('/users', handleRegister); // registrar usuarios
 router.get('/usuario', validarTokenMiddleware, handleGetUser); // obtener usuarios autenticados
 
 
