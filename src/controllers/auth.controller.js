@@ -38,11 +38,12 @@ const handleLogin = async (req, res, next) => { // Controlador para iniciar sesi
 
 
 const handleGetUser = async (req, res, next) => { // Controlador para obtener los datos del usuario
+    console.log(req.user)
     try {
         const { email } = req.user; // Extrae el email del token decodificado
         const consulta = 'SELECT * FROM users WHERE email = $1';
         const values = [email];
-        const { rows: [user] } = await pool.query(consulta, values); // Busca al usuario en la base de datos
+        const { rows: [user] } = await pool.query(consulta, values);
 
         if(!user){
             return res.status(404).json({ error: 'Usuario no encontrado' });
@@ -50,6 +51,7 @@ const handleGetUser = async (req, res, next) => { // Controlador para obtener lo
 
         res.status(200).json([user]); // Retorna todos los datos del usuario
     } catch (error) {
+        console.log(error)
         next(error);
     }
 };

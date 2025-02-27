@@ -38,8 +38,7 @@ const validarTokenMiddleware = async (req, res, next) => {
             return res.status(401).send({ error: 'Token no proporcionado en el encabezado de autorización' });
         }
 
-        const VerificarToken = verifyToken(token); // Verifica el token
-        const decoded = decodeToken(VerificarToken); // Decodifica el token
+        const decoded = verifyToken(token); // Verifica el token
         req.user = decoded; // Decodifica y adjunta al objeto req
         next();
     } catch (error) {
