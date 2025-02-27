@@ -2,7 +2,7 @@ require('dotenv').config();
 const jwt = require('jsonwebtoken');
 const { JWT_SECRET } = process.env;
 
-const signToken = (data) => {
+const signToken = (data) => { // Función para firmar el token
     console.log('Payload para firmar el token:', data);
     return jwt.sign(data, String(JWT_SECRET), { expiresIn: '24h' }); // Genera un token
 };
