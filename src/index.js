@@ -5,7 +5,7 @@ require('dotenv').config(); // Carga variables de entorno
 const app = express();
 
 // Middleware para CORS (solo permite peticiones desde tu frontend en Netlify o Vercel)
-app.use(cors({ origin: "https://tu-frontend.netlify.app" }));
+app.use(cors());
 
 // Middleware para procesar JSON
 app.use(express.json());
