@@ -22,7 +22,7 @@ const verificarCredencialesMiddleware = async (req, res, next) => {
 };
 
 // Middleware para validar el token de autenticación
-const validarTokenMiddleware = (req, res, next) => {
+const validarTokenMiddleware = async (req, res, next) => {
     try {
         const authHeader = req.header("Authorization");
 
@@ -38,7 +38,8 @@ const validarTokenMiddleware = (req, res, next) => {
             return res.status(401).send({ error: 'Token no proporcionado en el encabezado de autorización' });
         }
 
-        const decoded = verifyToken(token); // Verifica el token
+        const VerificarToken = verifyToken(token); // Verifica el token
+        const decoded = decodeToken(VerificarToken); // Decodifica el token
         req.user = decoded; // Decodifica y adjunta al objeto req
         next();
     } catch (error) {

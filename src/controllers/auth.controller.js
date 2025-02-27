@@ -42,7 +42,7 @@ const handleGetUser = async (req, res, next) => { // Controlador para obtener lo
         const { email } = req.user; // Extrae el email del token decodificado
         const consulta = 'SELECT * FROM users WHERE email = $1';
         const values = [email];
-        const { rows: [user] } = await pool.query(consulta, values);
+        const { rows: [user] } = await pool.query(consulta, values); // Busca al usuario en la base de datos
 
         if(!user){
             return res.status(404).json({ error: 'Usuario no encontrado' });
